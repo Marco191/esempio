@@ -1,0 +1,1 @@
+Ciao!! Questo è un esempio di saluto da commitare su GIT
